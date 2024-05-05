@@ -19,7 +19,7 @@ This project is a real-time violence detection system implemented using the YOLO
 
 ## Execution
 
-1. For `CNN_mobilenetv2_model.h5`, run the code `Image_Classifier.ipynb` file and save it in the directory.(before running provide this file path mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5 in code).
+1. For `CNN_mobilenetv2_model.h5`, run the code `Image_Classifier.ipynb` file and save it in the directory.(before running download dataset from this link https://www.kaggle.com/datasets/swapneelbiswas/real-life-violence  and provide this file path mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5 in code).
 
 2. Now save the `CNN_mobilenetv2_model.h5` file in the VIOLENCE DETECTION directory.
 
